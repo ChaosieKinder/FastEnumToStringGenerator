@@ -1,2 +1,2 @@
 # FastEnumToStringGenerator
-Adds an attribute for code generation that allows much faster enum-to-string handling.
+Adds an attribute for code generation of system and external enums, automatically grabs all enums in the current project.
