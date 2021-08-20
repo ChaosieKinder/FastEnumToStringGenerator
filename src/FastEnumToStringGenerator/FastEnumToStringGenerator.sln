@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastEnumToStringGenerator", "FastEnumToStringGenerator\FastEnumToStringGenerator.csproj", "{E4E42CA0-77AB-4370-86A3-0E59BE075EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastEnumToStringGeneratorTests", "FastEnumToStringGeneratorTests\FastEnumToStringGeneratorTests.csproj", "{BBEF2721-34BD-4410-B5C2-42CF156E7EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E42CA0-77AB-4370-86A3-0E59BE075EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E42CA0-77AB-4370-86A3-0E59BE075EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E42CA0-77AB-4370-86A3-0E59BE075EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E42CA0-77AB-4370-86A3-0E59BE075EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEF2721-34BD-4410-B5C2-42CF156E7EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEF2721-34BD-4410-B5C2-42CF156E7EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEF2721-34BD-4410-B5C2-42CF156E7EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEF2721-34BD-4410-B5C2-42CF156E7EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8268B878-DAD5-488B-8716-70BCCD31F128}
+	EndGlobalSection
+EndGlobal
