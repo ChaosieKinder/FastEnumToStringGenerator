@@ -1,5 +1,7 @@
+just a little playing around testing out Code Generators
+
 # FastEnumToStringGenerator
-Adds an attribute for code generation of system and external enums, automatically grabs all enums in the current project. Extension methods are generated in same namespace as the enum they are for, so no additional using statements are nessisary for enums in the same project. 
+Adds an attribute for code generation of system and external enums, automatically grabs all enums in the current project. Extension methods are generated in same namespace as the enum they are for, so no additional using statements are required for enums in the same project. 
 
 Usage:
 ```csharp
